@@ -19,4 +19,4 @@ Over time, materials that are currently posted at jcp.org will be migrated here.
 ** <a href="http://java.net/projects/jcp-ec/pages/DocumentIndex">Document archive</a>.
 ----
 
-[[image: jcp-process.jpg]]
+[Java Community Process](image: jcp-process.jpg)
