@@ -1,7 +1,7 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <th><h2>Welcome to the JCP Executive Committee project</h2></th>
-<th> ![Java Community Process](jcp-0.jpg) </th>
+<th> <img alt="Java Community Process" src="./jcp-0.jpg" /> </th>
 </tr>
 </table>
 
