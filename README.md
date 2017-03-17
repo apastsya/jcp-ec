@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-[http://jcp.org/en/jsr/detail?id=348 JSR 348: Towards a new version of the Java Community Process] requires the JCP's Executive Committee to operate in a transparent manner. 
+[JSR 348: Towards a new version of the Java Community Process](http://jcp.org/en/jsr/detail?id=348) requires the JCP's Executive Committee to operate in a transparent manner. 
 
 This project will be used to host materials and communications to enable JCP members and the public to more fully understand and participate in our work.
 
